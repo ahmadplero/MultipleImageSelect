@@ -9,6 +9,6 @@
 
     <string name="selected">selected</string>
 
-    <string name="limit_exceeded">Can select a maximum of %d images</string>
+    <string name="limit_exceeded">Please select up to %d receipts for upload at a time</string>
 
 </resources>
